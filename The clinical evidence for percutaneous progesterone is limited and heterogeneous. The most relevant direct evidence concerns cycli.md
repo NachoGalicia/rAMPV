@@ -1,0 +1,41 @@
+﻿The clinical evidence for percutaneous progesterone is limited and heterogeneous. The most relevant direct evidence concerns cyclical mastalgia and benign fibrocystic breast disease; I did not identify clinical trials specifically evaluating percutaneous progesterone for breast tenderness caused by contraceptive treatment or for breast pain during early pregnancy. This distinction matters because route, population, and hormonal context substantially affect interpretation.
+
+For **mastodynia and benign breast disease**, the evidence is mixed. In a small placebo-controlled study of 32 women with luteal-phase breast pain, application of a cream containing 1% natural progesterone did not produce a statistically significant advantage over placebo (McFadyen et al., 1989).[^1] A separate 28-patient premenopausal study evaluated progesterone applied per cutem in fibrocystic breast disease, motivated by an observed reduction in mastodynia, but the available record does not provide sufficiently detailed comparative outcome data to establish efficacy (Raso et al., 1986).[^2]
+
+More favorable findings come mainly from non-randomized or less rigorously controlled studies. In 42 reproductive-age patients with mastopathy, topical micronized progesterone was associated with a reduction in the proportion reporting mastalgia from 100% at baseline to 36% after three months and 12% after six months, together with reductions in parenchymal thickness, cyst number, and duct diameter (Kogan and Musina, 2012).[^3] In a larger Russian study of 798 patients with fibrocystic mastopathy, transdermal progesterone gel was associated with a reduction in median pain scores from 5.7 at baseline to 2.4 after three months and 1.0 after six months; reductions in diffuse, nodular, and cystic changes were also reported (Andreeva and Rozhkova, 2016).[^4] However, these studies do not appear, from the available reports, to provide the same level of causal evidence as a well-designed randomized, placebo-controlled trial; spontaneous improvement, regression to the mean, concomitant care, and selection effects therefore remain possible explanations.
+
+A frequently cited positive randomized trial should be interpreted cautiously in the context of the requested route. Nappi et al. (1992) studied **vaginal**, not percutaneous, micronized progesterone: 80 women with severe cyclical mastodynia were randomized to progesterone cream or placebo for six cycles. A greater than 50% reduction in pain was reported in 64.9% of the progesterone group versus 22.2% of the placebo group, while improvement in nodularity was not statistically different and no major adverse effects were detected.[^5] This supports a possible progestogenic effect on cyclical breast pain, but it cannot be assumed to demonstrate equivalent efficacy for progesterone applied to the breast skin.
+
+For **premenstrual breast tenderness**, the available evidence therefore supports, at most, a possible benefit in cyclical mastalgia, with contradictory results between the small negative percutaneous trial and the positive vaginal trial. A systematic review characterized topical, oral, and parenteral progestogen studies as producing variable results; it reported benefit for certain oral progestogens, but not evidence specific enough to validate percutaneous progesterone for premenstrual breast tenderness as an established treatment (Dhar et al., 2014).[^6]
+
+For **tenderness associated with contraceptive treatments**, I found no direct clinical trial demonstrating that percutaneous progesterone treats breast pain induced by an oral, transdermal, implantable, or intrauterine contraceptive. The review literature describes responses to oral contraceptives as variable—some women develop breast pain and others improve—but this does not establish efficacy for adding topical progesterone to manage contraceptive-associated symptoms (Dhar et al., 2014).[^6] Consequently, the evidence does not support a specific clinical claim for this indication.
+
+For **early pregnancy**, I found no direct clinical evidence supporting percutaneous progesterone for breast tenderness, and the retrieved studies were not conducted in pregnant women. The absence of evidence is particularly important here: the studies in reproductive-age women with mastopathy and cyclical mastalgia cannot be extrapolated to early pregnancy without pregnancy-specific efficacy and safety data. Percutaneous progesterone should therefore not be presented as an evidence-based treatment for pregnancy-related breast tenderness on the basis of the available clinical literature.
+
+Regarding longer-term breast safety in women with benign breast disease, a French cohort of 1,150 premenopausal women followed for 12,462 person-years found no association between percutaneous progesterone use and breast-cancer risk; the reported risk estimate was 0.8, with a 95% confidence interval of 0.4–1.6 (Plu-Bureau et al., 1999).[^7] This is reassuring observational evidence, but it is not evidence of symptomatic efficacy and cannot exclude residual confounding or establish safety in pregnancy.
+
+Overall, percutaneous progesterone has **suggestive but not definitive clinical support for mastalgia associated with benign fibrocystic breast disease**, largely from uncontrolled studies and one small negative placebo-controlled trial. The strongest positive randomized evidence identified involved vaginal rather than percutaneous administration. Evidence is insufficient for a specific indication of contraceptive-associated breast tenderness or early-pregnancy breast tenderness, and the treatment should not be described as established for those uses without additional indication-specific trials.
+
+**References (Vancouver style)**
+
+1. McFadyen IJ, Raab G, Macintyre CC, Forrest APM. Progesterone cream for cyclic breast pain. BMJ. 1989;298(6678):931. doi:10.1136/bmj.298.6678.931.
+2. Raso AF, Humet Ibáñez RM, Piqueras Viralto M, Badia V, Roca P. Relative efficacy of bromocriptine and progesterone per cutem in treating fibrocystic breast disease. 1986. [Bibliographic details incomplete in the retrieved record].
+3. Kogan IYu, Musina EV. Topical use of micronized progesterone in reproductive-age patients with mastopathy. Akusherstvo i Ginekologiya. 2012;(2):102-106.
+4. Andreeva EN, Rozhkova NI. Efficacy of micronized progesterone-containing transdermal gel in the treatment of fibrocystic mastopathy: results of a Russian study. Akusherstvo i Ginekologiya. 2016;(12):131-136.
+5. Nappi C, Affinito P, Di Carlo C, Esposito G, Montemagno U. Double-blind controlled trial of progesterone vaginal cream treatment for cyclical mastodynia in women with benign breast disease. J Endocrinol Invest. 1992;15:801-806. doi:10.1007/BF03348808.
+6. Dhar A, Srivastava A, Kumar S, Goyal A. A systematic review of current understanding and management of mastalgia. Indian J Surg. 2014;76(3):217-222. doi:10.1007/s12262-013-0813-8.
+7. Plu-Bureau G, Lê MG, Thalabard JC, Sitruk-Ware R, Mauvais-Jarvis P. Percutaneous progesterone use and risk of breast cancer: results from a French cohort study of premenopausal women with benign breast disease. Cancer Detect Prev. 1999;23(4):290-296. doi:10.1046/j.1525-1500.1999.99032.x.
+
+[^1]: Ij et al., 1989. Progesterone cream for cyclic breast pain. British medical journal.
+
+[^2]: Raso et al., 1986. Relative Efficacy of Bromocriptine and Progesterone per Cutem in Treating Fibrocystic Breast Disease. Annals of the New York Academy of Sciences.
+
+[^3]: TOPICAL USE OF MICRONIZED PROGESTERONE IN REPRODUCTIVE-AGE PATIENTS WITH MASTOPATHY - KOGAN - Obstetrics and Gynecology, 2012.
+
+[^4]: EFFICACY OF MICRONIZED PROGESTERONE-CONTAINING TRANSDERMAL GEL IN THE TREATMENT OF FIBROCYSTIC MASTOPATHY: RESULTS OF A RUSSIAN STUDY - Andreeva - Obstetrics and Gynecology, 2016.
+
+[^5]: Nappi et al., 1992. Double-blind controlled trial of progesterone vaginal cream treatment for cyclical mastodynia in women with benign breast disease. Journal of Endocrinological Investigation.
+
+[^6]: A Systematic Review of Current Understanding and Management of Mastalgia.
+
+[^7]: Plu-Bureau et al., 1999. Percutaneous progesterone use and risk of breast cancer: results from a French cohort study of premenopausal women with benign breast disease. Cancer Detection and Prevention.
